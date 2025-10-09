@@ -363,7 +363,7 @@ edge -domain <domain> -dns -wordlist <wordlist.txt> -resolver 8.8.4.4:53
 You can grab the pre-compiled binaries or build it.  Make sure you also get the cloud provider IP prefix JSON files.
 
 ## Building
-Tested with go1.19
+Tested and built with go 1.25
 
 ```
 $ git clone https://github.com/iknowjason/edge.git
